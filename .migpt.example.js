@@ -82,7 +82,7 @@ export default {
     profile: botProfile,
   },
   master: {
-    name: "陆小千",
+    name: "小希瑞",
     profile: masterProfile,
   },
   speaker: {
@@ -91,11 +91,11 @@ export default {
      */
 
     // 小米 ID
-    userId: "987654321", // 注意：不是手机号或邮箱，请在「个人信息」-「小米 ID」查看
+    userId: "52306226", // 注意：不是手机号或邮箱，请在「个人信息」-「小米 ID」查看
     // 账号密码
-    password: "123456",
+    password: "20forever",
     // 小爱音箱 DID 或在米家中设置的名称
-    did: "小爱音箱Pro", // 注意空格、大小写和错别字（音响 👉 音箱）
+    did: "L15A", // 注意空格、大小写和错别字（音响 👉 音箱）
 
     /**
      * 💡 唤醒词与提示语
