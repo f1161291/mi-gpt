@@ -127,7 +127,7 @@ export default {
     // TTS 指令，请到 https://home.miot-spec.com 查询具体指令
     ttsCommand: [5, 1],
     // 设备唤醒指令，请到 https://home.miot-spec.com 查询具体指令
-    wakeUpCommand: [5, 3, 1],
+    wakeUpCommand: [5, 3],
     // 查询是否在播放中指令，请到 https://home.miot-spec.com 查询具体指令
     // playingCommand: [3, 1, 1], // 默认无需配置此参数，查询播放状态异常时再尝试开启
 
