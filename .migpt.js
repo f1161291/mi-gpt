@@ -95,7 +95,7 @@ export default {
     // 账号密码
     password: "20forever",
     // 小爱音箱 DID 或在米家中设置的名称
-    did: "L15A", // 注意空格、大小写和错别字（音响 👉 音箱）
+    did: "LX05", // 注意空格、大小写和错别字（音响 👉 音箱）
 
     /**
      * 💡 唤醒词与提示语
@@ -129,7 +129,7 @@ export default {
     // 设备唤醒指令，请到 https://home.miot-spec.com 查询具体指令
     wakeUpCommand: [5, 3],
     // 查询是否在播放中指令，请到 https://home.miot-spec.com 查询具体指令
-    // playingCommand: [3, 1, 1], // 默认无需配置此参数，查询播放状态异常时再尝试开启
+    playingCommand: [3, 1, 1], // 默认无需配置此参数，查询播放状态异常时再尝试开启
 
     /**
      * 🔊 TTS 引擎
